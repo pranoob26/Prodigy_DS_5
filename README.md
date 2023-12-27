@@ -11,4 +11,4 @@ Analyzing the number of accidents with respect to various factors such as the we
 
 
 
-To access the powerbi file Please access the drive link in the doc file. As the size of the Power Bi file exceeded the permissible size of github I have uploaded it this way.
+To access the powerbi file Please Download the Google Drive Link File .In that there is a word file which can be used to acced the power bi file . As the size of the Power Bi file exceeded the permissible size of github I have uploaded it this way.
